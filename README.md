@@ -5,8 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaurvssah&label=Profile%20views&color=0e75b6&style=flat" alt="gaurvssah" /> </p>
 
-<p align="left"> <a href="https://twitter.com/gauravssah" target="blank"><img src="https://img.shields.io/twitter/follow/gauravssah?logo=twitter&style=for-the-badge" alt="gauravssah" /></a> </p>
+<p align="left"> <a href="https://twitter.com/gauravssah" target="_blank"><img src="https://img.shields.io/twitter/follow/gauravssah?logo=twitter&style=for-the-badge" alt="gauravssah" /></a> </p>
 
-<p align="left"> <a href="https://linkedin.com/gauravssah" target="blank"><img src="https://img.shields.io/twitter/follow/gauravssah?logo=linkedin&style=for-the-badge" alt="gauravssah" /></a> </p>
+<p align="left"> <a href="https://linkedin.com/gauravssah" target="_blank"><img src="https://img.shields.io/twitter/follow/gauravssah?logo=linkedin&style=for-the-badge" alt="gauravssah" /></a> </p>
 
-<p align="left"> <a href="https://instagram.com/gauravssah" target="blank"><img src="https://img.shields.io/twitter/follow/gauravssah?logo=instagram&style=for-the-badge" alt="gauravssah" /></a> </p>
+<p align="left"> <a href="https://instagram.com/gauravssah" target="_blank"><img src="https://img.shields.io/twitter/follow/gauravssah?logo=instagram&style=for-the-badge" alt="gauravssah" /></a> </p>
