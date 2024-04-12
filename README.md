@@ -1,36 +1,36 @@
-**✨ Awasome Gaurav Sah**
+<!-- Banner -->
+<p align="center">
+  <img src="https://your-banner-url.com" />
+</p>
 
-[![Animated GIF Banner]([path/to/your/animated_gif_banner.gif](https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/331417334/original/c05caa07a9d1cb6e22ea424f17fea83d109e74d5/be-your-frontend-web-developer-using-react-html-css-bootstrap-javascript.jpg))]  Hi there! I'm Gaurav Sah, a passionate web developer with a knack for crafting clean, interactive, and user-friendly experiences. I'm proficient in a range of technologies, including:
+<!-- Name -->
+<h1 align="center">Hi there, I'm Gaurav Sah 👋</h1>
 
-* **HTML** - The foundation of every web page.
-* **CSS** - Bringing style and structure to life.
-* **JavaScript** - Adding interactivity and dynamism.
-* **React** - Building efficient and scalable user interfaces.
-* **Bootstrap** - Rapidly prototyping and creating responsive layouts.
-* **Tailwind CSS** - A utility-first approach for building modern websites.
+<!-- Skills -->
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-Expert-orange" />
+  <img src="https://img.shields.io/badge/CSS-Expert-blue" />
+  <img src="https://img.shields.io/badge/Javascript-Expert-yellow" />
+  <img src="https://img.shields.io/badge/React-Expert-green" />
+  <img src="https://img.shields.io/badge/Bootstrap-Expert-purple" />
+  <img src="https://img.shields.io/badge/TailwindCSS-Expert-blueviolet" />
+</p>
 
-** Skills Breakdown**
+<!-- About -->
+<p align="center">
+  I'm a passionate web developer with expertise in HTML, CSS, JavaScript, React, Bootstrap, and TailwindCSS. I love turning ideas into beautiful and interactive web experiences.
+</p>
 
-[![Skill Bar Chart](path/to/your/skill_bar_chart.svg)]  ** Tools & Technologies**
+<!-- Motivational Quote -->
+<p align="center">
+  "Code is like humor. When you have to explain it, it’s bad." - Cory House
+</p>
 
-*  [HTML5 icon](link/to/html5_icon.svg)  HTML5
-*  [CSS3 icon](link/to/css3_icon.svg)  CSS3
-*  [JavaScript icon](link/to/javascript_icon.svg)  JavaScript
-*  [React icon](link/to/react_icon.svg)  React
-*  [Bootstrap icon](link/to/bootstrap_icon.svg)  Bootstrap
-*  [Tailwind CSS icon](link/to/tailwindcss_icon.svg)  Tailwind CSS
-
-** Quote**
-
-> "The best way to predict the future is to invent it." - Alan Kay
-
-** Connect with Me**
-
-* LinkedIn: [link to your LinkedIn profile](https://www.linkedin.com/in/gauravssah) (gauravssah)
-* Twitter: [link to your Twitter profile](https://twitter.com/gauravssah) (gauravssah)
-* Instagram: [link to your Instagram profile](https://www.instagram.com/gauravssah/) (gauravssah)
-* Facebook: [link to your Facebook profile](https://www.facebook.com/gauravssah) (gauravssah)
-
-** Looking for Collaboration?**
-
-I'm always eager to learn and collaborate on new projects. Feel free to reach out if you have something interesting in mind!
+<!-- Contact -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/gauravssah"><img src="https://your-linkedin-logo-url.com" /></a>
+  <a href="https://github.com/gauravssah"><img src="https://your-github-logo-url.com" /></a>
+  <a href="https://twitter.com/gauravssah"><img src="https://your-twitter-logo-url.com" /></a>
+  <a href="https://www.instagram.com/gauravssah"><img src="https://your-instagram-logo-url.com" /></a>
+  <a href="https://www.facebook.com/gauravssah"><img src="https://your-facebook-logo-url.com" /></a>
+</p>
