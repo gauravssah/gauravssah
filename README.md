@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://your-banner-url.com" />
+  <img src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif" />
 </p>
 
 <!-- Name -->
@@ -28,9 +28,9 @@
 
 <!-- Contact -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/gauravssah"><img src="https://your-linkedin-logo-url.com" /></a>
-  <a href="https://github.com/gauravssah"><img src="https://your-github-logo-url.com" /></a>
-  <a href="https://twitter.com/gauravssah"><img src="https://your-twitter-logo-url.com" /></a>
-  <a href="https://www.instagram.com/gauravssah"><img src="https://your-instagram-logo-url.com" /></a>
-  <a href="https://www.facebook.com/gauravssah"><img src="https://your-facebook-logo-url.com" /></a>
+  <a href="https://www.linkedin.com/in/gauravssah"><img src="https://onmsft.com/wp-content/uploads/2021/03/linkedinappicon-768x576.jpg" /></a>
+  <a href="https://github.com/gauravssah"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Flogos&psig=AOvVaw2aj1UzoxeU8XFPi67cBgP2&ust=1713008743654000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKCsiv_MvIUDFQAAAAAdAAAAABAE" /></a>
+  <a href="https://twitter.com/gauravssah"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.phoronix.com%2Fnews%2FTwitter-X-X.Org-Logos&psig=AOvVaw1XOOxP1nJm1Jd6rd15BBb7&ust=1713008799199000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIit4prNvIUDFQAAAAAdAAAAABAS" /></a>
+  <a href="https://www.instagram.com/gauravssah"><img src="https://cdn.pixabay.com/photo/2016/08/09/17/52/instagram-1581266_640.jpg" /></a>
+  <a href="https://www.facebook.com/gauravssah"><img src="https://static-00.iconduck.com/assets.00/facebook-icon-512x512-seb542ju.png" /></a>
 </p>
