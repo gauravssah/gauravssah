@@ -28,7 +28,7 @@
 
 <!-- Contact -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/gauravssah"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" width="30" height="30" /></a>
-  <a href="https://github.com/gauravssah"><img src="https://github.githubassets.com/assets/GitHub-Logo-ee398b662d42.png" width="30" height="30" /></a>
-  <a href="https://twitter.com/gauravssah"><img src="https://about.twitter.com/content/dam/about-twitter/x/brand-toolkit/logo-black.png.twimg.1920.png" width="30" height="30" /></a>
+  <a href="https://www.linkedin.com/in/gauravssah"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" width="100" height="30" /></a>
+  <a href="https://github.com/gauravssah"><img src="https://github.githubassets.com/assets/GitHub-Logo-ee398b662d42.png" width="100" height="30" /></a>
+  <a href="https://twitter.com/gauravssah"><img src="https://about.twitter.com/content/dam/about-twitter/x/brand-toolkit/logo-black.png.twimg.1920.png" width="100" height="30" /></a>
 </p>
