@@ -22,11 +22,16 @@
   <img src="https://img.shields.io/badge/TailwindCSS-Expert-blueviolet" alt="TailwindCSS" />
   <img src="https://img.shields.io/badge/Node.js-Intermediate-darkgreen" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express-Intermediate-lightgrey" alt="Express" />
+  <img src="https://img.shields.io/badge/MongoDB-Intermediate-brightgreen" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/EJS-Intermediate-orange" alt="EJS" />
+  <img src="https://img.shields.io/badge/Next.js-Intermediate-black" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Postman-Intermediate-ff6c37" alt="Postman" />
+  <img src="https://img.shields.io/badge/Git-Intermediate-orange" alt="Git" />
 </p>
 
 <!-- Inspirational Quote -->
 <p align="center" style="font-style: italic; color: #555;">
-  "Code is like humour. When you have to explain it, it’s bad." – Cory House
+  "Code is like humor. When you have to explain it, it’s bad." – Cory House
 </p>
 
 <!-- Connect with Me -->
