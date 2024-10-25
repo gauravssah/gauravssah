@@ -1,34 +1,44 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif" />
+  <img src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif" alt="Banner" style="max-width: 80%; border-radius: 10px;" />
 </p>
 
 <!-- Name -->
-<h1 align="center">Hi there, I'm Gaurav Sah 👋</h1>
+<h1 align="center">Hello, I'm Gaurav Sah! 👋</h1>
+
+<!-- About Me -->
+<p align="center" style="font-size: 1.2em; margin-top: 0;">
+  💻 Passionate web developer | 🚀 Bringing ideas to life with interactive web experiences
+</p>
 
 <!-- Skills -->
+<h3 align="center">💡 My Tech Stack</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML-Expert-orange" />
-  <img src="https://img.shields.io/badge/CSS-Expert-blue" />
-  <img src="https://img.shields.io/badge/Javascript-Expert-yellow" />
-  <img src="https://img.shields.io/badge/React-Expert-green" />
-  <img src="https://img.shields.io/badge/Bootstrap-Expert-purple" />
-  <img src="https://img.shields.io/badge/TailwindCSS-Expert-blueviolet" />
+  <img src="https://img.shields.io/badge/HTML-Expert-orange" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-Expert-blue" alt="CSS" />
+  <img src="https://img.shields.io/badge/JavaScript-Expert-yellow" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-Expert-green" alt="React" />
+  <img src="https://img.shields.io/badge/Bootstrap-Expert-purple" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/TailwindCSS-Expert-blueviolet" alt="TailwindCSS" />
+  <img src="https://img.shields.io/badge/Node.js-Intermediate-darkgreen" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-Intermediate-lightgrey" alt="Express" />
 </p>
 
-<!-- About -->
-<p align="center">
-  I'm a passionate web developer with expertise in HTML, CSS, JavaScript, React, Bootstrap, and TailwindCSS. I love turning ideas into beautiful and interactive web experiences.
+<!-- Inspirational Quote -->
+<p align="center" style="font-style: italic; color: #555;">
+  "Code is like humour. When you have to explain it, it’s bad." – Cory House
 </p>
 
-<!-- Motivational Quote -->
+<!-- Connect with Me -->
+<h3 align="center">📫 Let's Connect!</h3>
 <p align="center">
-  "Code is like humor. When you have to explain it, it’s bad." - Cory House
-</p>
-
-<!-- Contact -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/gauravssah"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" width="100" height="50" /></a>
-  <a href="https://github.com/gauravssah"><img src="https://github.githubassets.com/assets/GitHub-Logo-ee398b662d42.png" width="100" height="50" /></a>
-  <a href="https://twitter.com/gauravssah"><img src="https://about.twitter.com/content/dam/about-twitter/x/brand-toolkit/logo-black.png.twimg.1920.png" width="100" height="50" /></a>
+  <a href="https://www.linkedin.com/in/gauravssah" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/gauravssah" target="_blank">
+    <img src="https://img.icons8.com/nolan/48/github.png" alt="GitHub" />
+  </a>
+  <a href="https://twitter.com/gauravssah" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" />
+  </a>
 </p>
