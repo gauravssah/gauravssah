@@ -215,81 +215,32 @@
 
 <div align="center">
 
-<!-- ANIMATED CONNECT HEADER -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=00D4FF&center=true&vCenter=true&width=700&lines=✦+Find+me+everywhere+as+%40gauravssah+✦;💬+Always+open+to+collaborate+%26+connect!;🚀+Let%27s+build+something+amazing+together!" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=00D4FF&center=true&vCenter=true&width=700&lines=✦+Always+open+to+collaborate+%26+connect!+✦;🚀+Let%27s+build+something+amazing+together!" />
 
 <br/><br/>
 
-<!-- ANIMATED BANNER -->
-![connect-banner](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,12&height=3&width=400)
-
-<br/>
-
-<!-- SOCIAL CARDS TABLE -->
-<table>
-  <tr>
-    <td align="center" width="160">
-      <a href="https://www.linkedin.com/in/gauravssah" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /><br/>
-        <sub><b>Gaurav Sah</b></sub>
-      </a>
-    </td>
-    <td align="center" width="160">
-      <a href="https://github.com/gauravssah" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /><br/>
-        <sub><b>@gauravssah</b></sub>
-      </a>
-    </td>
-    <td align="center" width="160">
-      <a href="https://twitter.com/gauravssah" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/-Twitter%20%2F%20X-000000?style=for-the-badge&logo=x&logoColor=white" /><br/>
-        <sub><b>@gauravssah</b></sub>
-      </a>
-    </td>
-    <td align="center" width="160">
-      <a href="https://www.instagram.com/gauravssah/" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /><br/>
-        <sub><b>@gauravssah</b></sub>
-      </a>
-    </td>
-    <td align="center" width="160">
-      <a href="https://www.facebook.com/gauravssah/" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /><br/>
-        <sub><b>@gauravssah</b></sub>
-      </a>
-    </td>
-    <td align="center" width="160">
-      <a href="https://gauravssah.github.io/GauravSahPortfolio/" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/-Portfolio-ff5c5c?style=for-the-badge&logo=google-chrome&logoColor=white" /><br/>
-        <sub><b>Visit Now 🚀</b></sub>
-      </a>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<!-- SINGLE HANDLE HIGHLIGHT BOX -->
-> 🎯 **Find me everywhere with one handle →** &nbsp; `` @gauravssah ``
-
-<br/>
-
-<!-- ANIMATED PROFILE HITS ROW -->
 <a href="https://www.linkedin.com/in/gauravssah" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/💼_LinkedIn-in%2Fgauravssah-0A66C2?style=flat-square&logoColor=white" height="28"/>
-</a>&nbsp;
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
+</a>&nbsp;&nbsp;
 <a href="https://github.com/gauravssah" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/🐙_GitHub-gauravssah-181717?style=flat-square&logoColor=white" height="28"/>
-</a>&nbsp;
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35" />
+</a>&nbsp;&nbsp;
 <a href="https://twitter.com/gauravssah" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/🐦_X%2FTwitter-gauravssah-000000?style=flat-square&logoColor=white" height="28"/>
-</a>&nbsp;
+  <img src="https://img.shields.io/badge/X%20%2F%20Twitter-000000?style=for-the-badge&logo=x&logoColor=white" height="35" />
+</a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/gauravssah/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/📸_Instagram-gauravssah-E4405F?style=flat-square&logoColor=white" height="28"/>
-</a>&nbsp;
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" />
+</a>&nbsp;&nbsp;
 <a href="https://www.facebook.com/gauravssah/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/📘_Facebook-gauravssah-1877F2?style=flat-square&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="35" />
+</a>&nbsp;&nbsp;
+<a href="https://gauravssah.github.io/GauravSahPortfolio/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Portfolio-ff5c5c?style=for-the-badge&logo=google-chrome&logoColor=white" height="35" />
 </a>
+
+<br/><br/>
+
+> 🎯 **One username, everywhere** &nbsp;→&nbsp; `@gauravssah`
 
 </div>
 
