@@ -215,9 +215,9 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=00D4FF&center=true&vCenter=true&width=700&lines=✦+Always+open+to+collaborate+%26+connect!+✦;🚀+Let%27s+build+something+amazing+together!" />
 
-<br/><br/>
+<br/>
+
 
 <a href="https://www.linkedin.com/in/gauravssah" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
@@ -248,7 +248,8 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=1500&color=00D4FF&center=true&vCenter=true&width=620&lines=Thanks+for+stopping+by!+🙏;Drop+a+⭐+if+you+like+my+work!;Let's+connect+and+build+something+awesome!+🔥;Happy+Coding!+💻" />
+![thanks](https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=2,3,12&height=60&text=Thanks+for+visiting!+Drop+a+star+if+you+like+my+work+%E2%AD%90&fontSize=16&fontColor=00d4ff&animation=fadeIn)
+
 
 <!-- FOOTER WAVE -->
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=120&section=footer&animation=twinkling)
