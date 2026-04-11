@@ -120,7 +120,7 @@
 
 ---
 
-## 🐍 Snake Eating My Contributions
+## 🐍 My Contributions
 
 <div align="center">
 
@@ -134,7 +134,7 @@
 
 ---
 
-## 💬 Random Dev Quote
+## 💬 Dev Quote
 
 <div align="center">
 
