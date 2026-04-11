@@ -17,7 +17,7 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=gauravssah&label=Profile+Views&color=00d4ff&style=for-the-badge&labelColor=0D1117" />
   <img src="https://img.shields.io/github/followers/gauravssah?label=Followers&style=for-the-badge&color=00d4ff&labelColor=0D1117" />
-  <a href="https://gauravssah.github.io/GauravSahPortfolio/" target="_blank" rel="noopener noreferrer">
+  <a href="https://gauravssah.github.io/gauravsah" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-Live_Now-00d4ff?style=for-the-badge&labelColor=0D1117" />
   </a>
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-00e676?style=for-the-badge&labelColor=0D1117" />
